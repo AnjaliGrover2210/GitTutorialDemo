@@ -10,3 +10,5 @@ it works
 now 
 
 roll back to now
+
+commit first 
